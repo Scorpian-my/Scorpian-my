@@ -55,7 +55,7 @@ I am a Full Stack Developer and Engineer Python language<img src="https://media.
 ---
 
 ### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.Scorpy.tl)
+- [How to Create REST APIs with Java and Spring Boot](https://www.Scorpy.tk)
 - [How to Implement Memoization in React to Improve Performance](https://t.me/Dev_Scorpian/)
 <!-- BLOG-POST-LIST:END -->
 
