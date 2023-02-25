@@ -12,7 +12,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### : Programmer / Python-Network / Web Developer / :
+### : Programmer / Python-Network / Web Developer :
 
 https://Scorpian.ir
 
@@ -35,16 +35,4 @@ https://Scorpian.ir
 
 ---
 
-### 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/Scorpian-my)
-
----
-
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.Scorpy.tk)
-- [How to Implement Memoization in React to Improve Performance](https://t.me/Dev_Scorpian/)
-<!-- BLOG-POST-LIST:END -->
 
