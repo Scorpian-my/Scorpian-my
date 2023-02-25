@@ -44,7 +44,7 @@ https://Scorpian.ir
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=Scorpian-my&show_icons=true&count_private=true">
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpian-my&layout=compact&theme=vision-friendly-dark)](https://github.com/Scorpian-my)
+
 
 ---
 
