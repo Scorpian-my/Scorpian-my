@@ -30,6 +30,7 @@ https://Scorpian.ir
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>" title="Git" **alt="Git" width="40" height="40"/>
 </p>
 
 ---
