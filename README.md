@@ -39,7 +39,7 @@ https://Scorpian.ir
 ### 🔥 &nbsp; My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scorpian-my&theme=dark&background=000000)](https://git.io/streak-stats)
-<hr>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpian-my&layout=compact&theme=vision-friendly-dark)](https://github.com/Scorpian-my)
 
 <img src="https://gpvc.arturio.dev/Scorpian-my" align="center" width=200 height=30 />
