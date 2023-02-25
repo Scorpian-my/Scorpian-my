@@ -40,7 +40,7 @@ https://Scorpian.ir
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scorpian-my&theme=dark&background=000000)](https://git.io/streak-stats)
 <hr>
-img src="https://gpvc.arturio.dev/Scorpian-my" align="center" width=200 height=30  />
+<img src="https://gpvc.arturio.dev/Scorpian-my" align="center" width=200 height=30  />
 <img src="https://github-readme-stats.vercel.app/api?username=Scorpian-my&show_icons=true&count_private=true">
 <hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpian-my&layout=compact&theme=vision-friendly-dark)](https://github.com/Scorpian-my)
