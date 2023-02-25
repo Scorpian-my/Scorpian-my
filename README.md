@@ -12,14 +12,9 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### : Programmer / Security-Network / Ful stack: &nbsp;About Me :
+### : Programmer / Python-Network / Web Developer / :
 
-I am a Full Stack Developer and Engineer Python language<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from iran.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/mahyar-mortezaei-30a537243)
+https://Scorpian.ir
 
 ---
 
