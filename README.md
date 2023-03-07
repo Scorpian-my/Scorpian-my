@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/mwlite/in/mahyar-mortezaei-30a537243"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://www.coffeebede.com/scorpian" target="_blank"><img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" wisth="41" height="174" /></a>
+<a href="https://www.coffeebede.com/scorpian" target="_blank"><img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" wisth="11" height="74" /></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
