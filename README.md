@@ -38,11 +38,7 @@ class About extends Me
 }
 ```
 
-### : Programmer / Web Developer :
 
-https://Scorpian.ir
-
----
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
