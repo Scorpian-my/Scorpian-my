@@ -13,14 +13,14 @@
 
 ```php
 <?php
-namespace AshBaker;
+namespace Mahyar;
 class About extends Me
 {
     public function getCurrentWorkplace(): array
     {
         return [
             'workplace' => [
-                'company' => 'Nita',
+                'company' => 'Scorpian',
                 'position' => 'Founder'         
             ]
         ];
